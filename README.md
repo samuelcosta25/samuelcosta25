@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E63946&height=200&section=header&text=Samuel%20Costa&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=200&section=header&text=Samuel%20Costa1%20Santos&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Banner de Samuel Costa com gradiente cinza e vermelho"
   />
@@ -336,5 +336,5 @@ Projects that encourage learners to investigate problems, design solutions, buil
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E63946&height=120&section=footer" width="100%" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer" width="100%" alt="Footer banner"/>
 </p>
