@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=200&section=header&text=Samuel%20Costa%20Santos&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20%7C%20Education%20%7C%20Electronics&descSize=15&descAlignY=55" width="100%" alt="Banner Samuel Costa Santos"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FF0000,100:00D9FF&height=200&section=header&text=Samuel%20Costa%20Santos&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20%7C%20Education%20%7C%20Electronics&descSize=15&descAlignY=55" width="100%" alt="Banner Samuel Costa Santos"/>
 </p>
 
 <p align="center">
