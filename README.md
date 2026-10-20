@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:E63946&height=200&section=header&text=Samuel%20Costa&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E63946&height=200&section=header&text=Samuel%20Costa&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Banner de Samuel Costa com gradiente cinza e vermelho"
   />
