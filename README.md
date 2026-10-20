@@ -1,138 +1,335 @@
-# 👨‍💻 Samuel Costa Santos
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=200&section=header&text=Samuel%20Costa%20Santos&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20%7C%20Education%20%7C%20Electronics&descSize=15&descAlignY=55" width="100%" alt="Banner Samuel Costa Santos"/>
+</p>
 
-### `Software Developer` · `Always Learning` · `Building Solutions`
+<p align="center">
+  <a href="https://github.com/samuelcosta25">
+    <img src="https://img.shields.io/badge/GitHub-samuelcosta25-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Role-Technology%20Educator-00D9FF?style=for-the-badge" alt="Technology Educator"/>
+  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-8957E5?style=for-the-badge" alt="Continuous Learning"/>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+c%C3%B3digo;Building+solutions+through+technology;Learning%2C+building+and+evolving](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=Transformando+ideias+em+c%C3%B3digo;Building+solutions+through+technology;Learning%2C+building+and+evolving)" alt="Typing SVG" />
-\</p>
-
-\<p align="center">
-&#x20; \<a href="[https://github.com/samuelcosta25](https://github.com/samuelcosta25)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-samuelcosta25-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-samuelcosta25-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Continuous%20Learning-00D9FF?style=for-the-badge](https://img.shields.io/badge/Focus-Continuous%20Learning-00D9FF?style=for-the-badge)" alt="Continuous Learning"/>
-&#x20; \<img src="[https://img.shields.io/badge/Status-Developing%20%26%20Evolving-7C3AED?style=for-the-badge](https://img.shields.io/badge/Status-Developing%20%26%20Evolving-7C3AED?style=for-the-badge)" alt="Developing and evolving"/>
-\</p>
-
----
-
-## 🇧🇷 Sobre mim
-
-Sou desenvolvedor de software e entusiasta da tecnologia, interessado em transformar problemas reais em soluções eficientes por meio da programação.
-
-Minha jornada é baseada no aprendizado contínuo, na construção de projetos práticos e no aprimoramento das minhas habilidades técnicas. Busco compreender não apenas como desenvolver uma aplicação, mas também como estruturar, testar, documentar e evoluir soluções de software.
-
-- 💻 Desenvolvimento de aplicações e sistemas.
-- 🧩 Interesse em arquitetura de software, APIs e boas práticas.
-- 📱 Desenvolvimento mobile com Flutter.
-- 🗄️ Experiência com bancos de dados relacionais e soluções integradas.
-- 🚀 Aprendizado contínuo por meio de projetos e desafios técnicos.
-
-## 🇺🇸 About me
-
-I'm a software developer and technology enthusiast interested in turning real-world problems into efficient solutions through programming.
-
-My journey is driven by continuous learning, hands-on projects, and the constant improvement of my technical skills. I aim to understand not only how to build applications, but also how to structure, test, document, and evolve software solutions.
-
-- 💻 Application and software development.
-- 🧩 Interested in software architecture, APIs, and best practices.
-- 📱 Mobile development with Flutter.
-- 🗄️ Working with relational databases and integrated solutions.
-- 🚀 Continuous learning through practical projects and technical challenges.
+<p align="center">
+  <a href="#português">🇧🇷 Português</a> •
+  <a href="#english">🇺🇸 English</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#projetos">Projetos</a> •
+  <a href="#filosofia">Filosofia</a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias | Tech Stack
+<a id="português"></a>
 
-### Linguagens | Languages
+## 👨‍💻 Sobre mim
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)" alt="C#"/>
-&#x20; \<img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)" alt="PHP"/>
-&#x20; \<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)" alt="Java"/>
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript"/>
-&#x20; \<img src="[https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)" alt="Dart"/>
-\</p>
+Olá! Sou **Samuel Costa Santos**, professor de Tecnologia da Informação e Eletrônica no **SENAI Limeira — Luiz Varga**.
 
-### Frameworks e desenvolvimento | Frameworks & Development
+Meu trabalho conecta desenvolvimento de software, educação profissional e experimentação tecnológica. Acredito que a melhor forma de aprender tecnologia é compreender os fundamentos, construir soluções reais, testar hipóteses e transformar conhecimento em prática.
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)" alt="Flutter"/>
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5"/>
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3"/>
-\</p>
+Minha atuação envolve o desenvolvimento de atividades e projetos que aproximam a programação, a eletrônica e a resolução de problemas do mundo real.
 
-### Bancos de dados | Databases
+- 💻 Desenvolvimento de sistemas e aplicações.
+- 🌐 Programação web, integração de sistemas e APIs.
+- 🗄️ Bancos de dados e persistência de informações.
+- 🧪 Testes, documentação e qualidade de software.
+- 🔌 Eletrônica aplicada, microcontroladores e Internet das Coisas (IoT).
+- 🎓 Educação profissional baseada em competências e aprendizagem prática.
+- 🚀 Aprendizado contínuo, projetos técnicos e exploração de novas tecnologias.
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" alt="MySQL"/>
-&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)" alt="PostgreSQL"/>
-&#x20; \<img src="[https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)" alt="Firebase"/>
-\</p>
+## 🎓 Educação tecnológica
 
-### Ferramentas | Tools
+**SENAI Limeira — Luiz Varga**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" alt="Git"/>
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \<img src="[https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)" alt="Visual Studio"/>
-&#x20; \<img src="[https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" alt="VS Code"/>
-\</p>
+Atuação nas áreas de Tecnologia da Informação e Eletrônica, incentivando a aprendizagem prática, o pensamento lógico, a criatividade e o desenvolvimento de soluções tecnológicas.
+
+Minha abordagem educacional valoriza o *aprender fazendo*: planejar, projetar, implementar, testar, documentar e aprimorar.
+
+---
+
+<a id="english"></a>
+
+## 🌎 About me
+
+Hello! I'm **Samuel Costa Santos**, a Technology and Electronics instructor at **SENAI Limeira — Luiz Varga**, Brazil.
+
+My work connects software development, technical education, and hands-on experimentation. I believe the best way to learn technology is to understand its fundamentals, build real solutions, test ideas, and turn knowledge into practice.
+
+My interests include:
+
+- 💻 Software and application development.
+- 🌐 Web development, system integration, and APIs.
+- 🗄️ Databases and data persistence.
+- 🧪 Software testing, documentation, and quality assurance.
+- 🔌 Applied electronics, microcontrollers, and the Internet of Things (IoT).
+- 🎓 Competency-based technical education and project-based learning.
+- 🚀 Continuous learning and practical engineering challenges.
+
+---
+
+## 🧭 Explore my profile | Explore meu perfil
+
+<details>
+<summary><strong>💻 Software Development | Desenvolvimento de Software</strong></summary>
+
+<br>
+
+Exploring the complete software development lifecycle, from requirements analysis to implementation and testing.
+
+- Programming logic and algorithms.
+- Object-oriented programming (OOP).
+- Front-end and back-end development.
+- Model-View-Controller (MVC) architecture.
+- REST APIs and system integration.
+- CRUD operations and database persistence.
+- Version control with Git and GitHub.
+- Software documentation and testing.
+- Clean code and software quality.
+
+</details>
+
+<details>
+<summary><strong>🌐 Web Development | Desenvolvimento Web</strong></summary>
+
+<br>
+
+Technologies and concepts associated with building modern web applications.
+
+- HTML5 and semantic markup.
+- CSS3 and responsive interfaces.
+- JavaScript and DOM manipulation.
+- Front-end frameworks and interface development.
+- Back-end programming.
+- Forms, validation, and data processing.
+- API consumption and integration.
+- JSON and XML.
+- UI/UX fundamentals and usability.
+
+</details>
+
+<details>
+<summary><strong>🗄️ Databases | Bancos de Dados</strong></summary>
+
+<br>
+
+Working with data modeling, persistence, and application integration.
+
+- Relational database concepts.
+- SQL and data manipulation.
+- Database modeling and normalization.
+- CRUD operations.
+- Application-to-database connectivity.
+- Data integrity and validation.
+- JSON and XML data exchange.
+- Database versioning and maintenance.
+
+</details>
+
+<details>
+<summary><strong>🧪 Software Quality | Qualidade de Software</strong></summary>
+
+<br>
+
+Building more reliable applications through structured development and verification.
+
+- Functional requirements and acceptance criteria.
+- Test planning and test cases.
+- Unit and integration testing concepts.
+- Defect identification and reporting.
+- Technical documentation.
+- Debugging and code review.
+- Software quality and maintainability.
+- Version control and traceability.
+
+</details>
+
+<details>
+<summary><strong>🔌 Electronics, Embedded Systems & IoT | Eletrônica e Sistemas Embarcados</strong></summary>
+
+<br>
+
+Connecting software to the physical world through electronic circuits, programmable devices, sensors, and actuators.
+
+- Digital and analog signals.
+- Microcontroller-based projects.
+- Sensor and actuator integration.
+- Digital inputs and outputs.
+- Embedded programming concepts.
+- Communication between devices and applications.
+- IoT and industrial IoT (IIoT) concepts.
+- Connectivity and cloud integration.
+- Prototyping and hardware testing.
+
+</details>
+
+<details>
+<summary><strong>🎓 Technical Education | Educação Profissional</strong></summary>
+
+<br>
+
+Learning through practical challenges and the development of real-world solutions.
+
+- Project-based learning.
+- Problem-solving activities.
+- Technical documentation.
+- Requirements analysis.
+- Prototyping and experimentation.
+- Collaborative development.
+- Analytical thinking and creativity.
+- Continuous improvement and technical evaluation.
+
+</details>
+
+---
+
+<a id="tecnologias"></a>
+
+## 🛠️ Technologies & Tools | Tecnologias e Ferramentas
+
+### Programming languages | Linguagens de programação
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Web technologies | Tecnologias Web
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+</p>
+
+### Databases | Bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Development tools | Ferramentas de desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+### Electronics & IoT | Eletrônica e IoT
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/IoT-00D9FF?style=for-the-badge&logoColor=white" alt="Internet of Things"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-30363D?style=for-the-badge" alt="Embedded Systems"/>
+  <img src="https://img.shields.io/badge/Electronics-30363D?style=for-the-badge" alt="Electronics"/>
+</p>
+
+> **Nota:** as tecnologias exibidas representam ferramentas e áreas relacionadas à atuação e aos conteúdos técnicos considerados para este perfil. Os badges não constituem certificações nem indicam, isoladamente, o nível de domínio de cada ferramenta.
+
+---
+
+<a id="projetos"></a>
+
+## 🚀 Projects | Projetos
+
+Gosto de projetos que conectam software, hardware e necessidades reais.
+
+I enjoy projects that connect software, hardware, and real-world needs.
+
+<details>
+<summary><strong>🌐 Web applications & APIs</strong></summary>
+
+Applications focused on data processing, CRUD operations, integrations, and software architecture.
+
+**Topics:** HTML, CSS, JavaScript, PHP, C#, SQL, REST APIs.
+
+[Explore my repositories](https://github.com/samuelcosta25?tab=repositories)
+
+</details>
+
+<details>
+<summary><strong>📱 Mobile and desktop applications</strong></summary>
+
+Applications designed to organize information, simplify workflows, and solve practical problems.
+
+**Topics:** application architecture, interfaces, databases, validation, and testing.
+
+[Explore my repositories](https://github.com/samuelcosta25?tab=repositories)
+
+</details>
+
+<details>
+<summary><strong>🔌 Electronics, automation & IoT</strong></summary>
+
+Practical experiments involving sensors, actuators, microcontrollers, and the integration of physical devices with software.
+
+**Topics:** Arduino, digital and analog signals, embedded systems, and IoT.
+
+[Explore my repositories](https://github.com/samuelcosta25?tab=repositories)
+
+</details>
+
+<details>
+<summary><strong>🎓 Educational projects & technical challenges</strong></summary>
+
+Projects that encourage learners to investigate problems, design solutions, build prototypes, test results, and document their work.
+
+[Explore my repositories](https://github.com/samuelcosta25?tab=repositories)
+
+</details>
 
 ---
 
 ## 📊 GitHub Analytics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=samuelcosta25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=samuelcosta25\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub statistics"/>
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcosta25&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcosta25\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most used languages"/>
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelcosta25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcosta25&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used languages"/>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=samuelcosta25&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=samuelcosta25\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak"/>
-\</p>
-
----
-
-## 🚀 Projetos em destaque | Featured Projects
-
-Aqui estão alguns espaços para destacar projetos importantes do meu desenvolvimento. Substitua os exemplos pelos seus repositórios reais.
-
-Here are some spaces to showcase key projects from my development journey. Replace these examples with your actual repositories.
-
-| Projeto / Project                                     | Descrição / Description                                                                                           |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **[Project One](https://github.com/samuelcosta25)**   | Uma aplicação que resolve um problema real. / An application that solves a real-world problem.                    |
-| **[Project Two](https://github.com/samuelcosta25)**   | Um projeto focado em APIs, integração ou banco de dados. / A project focused on APIs, integrations, or databases. |
-| **[Project Three](https://github.com/samuelcosta25)** | Uma solução mobile ou aplicação com interface gráfica. / A mobile solution or graphical application.              |
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samuelcosta25&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-## 🎯 Objetivos | Goals
+## 🌱 Current mindset | Mentalidade
 
-- [ ] Aprimorar arquitetura de software e padrões de projeto.
-  Improve software architecture and design patterns.
-- [ ] Desenvolver projetos completos, do planejamento à documentação.
-  Build complete projects, from planning to documentation.
-- [ ] Contribuir com projetos open source.
-  Contribute to open-source projects.
-- [ ] Evoluir em testes automatizados e qualidade de código.
-  Improve automated testing and code quality.
-- [ ] Construir um portfólio técnico consistente.
-  Build a strong technical portfolio.
+- **Learn by building** — aprender desenvolvendo.
+- **Understand the fundamentals** — compreender os fundamentos.
+- **Test, document, improve** — testar, documentar e aprimorar.
+- **Share knowledge** — compartilhar conhecimento.
+- **Stay curious** — manter a curiosidade.
+
+<a id="filosofia"></a>
+
+## 💡 Philosophy | Filosofia
+
+> 🇧🇷 A tecnologia ganha significado quando transforma conhecimento em soluções e contribui para o desenvolvimento das pessoas.
+
+> 🇺🇸 Technology becomes meaningful when it turns knowledge into solutions and contributes to people's development.
 
 ---
 
-## 💡 Filosofia | Philosophy
+<p align="center">
+  <a href="https://github.com/samuelcosta25?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20projects-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore my projects"/>
+  </a>
+</p>
 
-> 🇧🇷 Evoluir como desenvolvedor é transformar conhecimento em prática, erros em aprendizado e ideias em soluções.
->
-> 🇺🇸 Growing as a developer means turning knowledge into practice, mistakes into lessons, and ideas into solutions.
+<p align="center">
+  <i>Teaching technology. Building solutions. Learning continuously.</i>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:242938,100:00D9FF&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:181717,50:242938,100:00D9FF\&height=120\&section=footer)" alt="Profile footer"/>
-\</p>
-
-\<p align="center">
-&#x20; \<i>Learning every day. Building with purpose. Evolving through code.\</i>
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer banner"/>
+</p>
