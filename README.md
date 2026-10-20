@@ -1,6 +1,11 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FF0000,100:00D9FF&height=200&section=header&text=Samuel%20Costa%20Santos&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20%7C%20Education%20%7C%20Electronics&descSize=15&descAlignY=55" width="100%" alt="Banner Samuel Costa Santos"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:E63946&height=200&section=header&text=Samuel%20Costa&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+    width="100%"
+    alt="Banner de Samuel Costa com gradiente cinza e vermelho"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/samuelcosta25">
