@@ -336,5 +336,5 @@ Projects that encourage learners to investigate problems, design solutions, buil
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E63946&height=120&section=footer" width="100%" alt="Footer banner"/>
 </p>
